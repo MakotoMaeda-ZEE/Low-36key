@@ -1,0 +1,10 @@
+{
+    "include": [
+        {
+            "keyboard": "low_36key",
+            "keymap": "vial",
+            "target": "uf2",
+            "name": "low_36key_vial"
+        }
+    ]
+}
